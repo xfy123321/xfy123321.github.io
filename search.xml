@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>My awesome title</title>
+      <link href="/2016/10/12/hello-world/"/>
+      <url>/2016/10/12/hello-world/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 分类1 </category>
+          
+          <category> 分类2 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+            <tag> 标签2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
